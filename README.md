@@ -1,0 +1,2 @@
+# freyLearningRabbitMQ
+learning the rabitMQ
